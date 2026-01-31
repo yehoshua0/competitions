@@ -1,0 +1,8 @@
+# Workspace files
+.todo
+
+# Competition files
+.venv
+__pycache__
+data
+submissions
