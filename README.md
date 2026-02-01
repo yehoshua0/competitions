@@ -6,14 +6,28 @@ Welcome to my global competition portfolio! This repository serves as a centrali
 It is my new year competition portfolio.
 Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascience_projects) and [there](https://github.com/yehoshua0/yhsml).
 
+<p align="center">
+  <a href="https://zindi.africa/users/aaaml007">
+    <img src="./img/gold_medal.svg" width="120" alt="Zindi Gold Medals">
+  </a>
+  <a href="https://zindi.africa/users/aaaml007">
+    <img src="./img/silver_medal.svg" width="120" alt="Zindi Silver Medals">
+  </a>
+  <a href="https://zindi.africa/users/aaaml007">
+    <img src="./img/bronze_medal.svg" width="120" alt="Zindi Bronze Medals">
+  </a>
+  <br>
+  <b>🏆 Zindi Performance 🏆</b><br>
+  <i>Top Competitive Data Scientist at Zindi Africa</i>
+</p>
 ---
 
 ## 🏆 Featured Competitions
 
-| Competition | Domain | Platform | Core Tech | Highlights |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Telco Troubleshooting](./The%20AI%20Telco%20Troubleshooting%20Challenge)** | NLP | - | Qwen2.5, SFT, LoRA | Specialised edge-cloud LLM for network fault detection. |
-| **[Helios Corn Futures](./Helios%20Corn%20Futures%20Climate%20Challenge)** | ML | Helios | Climate Data, Forecasting | Climate challenge focused on commodity futures (WIP). |
+| Competition                                                                   | Domain | Platform | Core Tech                 | Highlights                                              |
+| :---------------------------------------------------------------------------- | :----- | :------- | :------------------------ | :------------------------------------------------------ |
+| **[Telco Troubleshooting](./The%20AI%20Telco%20Troubleshooting%20Challenge)** | NLP    | -        | Qwen2.5, SFT, LoRA        | Specialised edge-cloud LLM for network fault detection. |
+| **[Helios Corn Futures](./Helios%20Corn%20Futures%20Climate%20Challenge)**    | ML     | Helios   | Climate Data, Forecasting | Climate challenge focused on commodity futures (WIP).   |
 
 ---
 
@@ -54,4 +68,5 @@ Most projects use a standardized Python environment.
 - **Portfolio Website:** [yehoshua.vercel.app](http://yehoshua.vercel.app/)
 
 ---
-*Last Updated: 2026-01-31*
+
+_Last Updated: 2026-01-31_
