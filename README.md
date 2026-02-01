@@ -20,6 +20,15 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
   <b>🏆 Zindi Performance 🏆</b><br>
   <i>Top Competitive Data Scientist at Zindi Africa</i>
 </p>
+
+## 📜 Top Achievement Certificates
+
+<p align="center">
+  <!-- Place your certificates in the /certificates folder and reference them here! -->
+  <img src="./certificates/yehoshua-MPEG-G Microbiome Classification Challenge.png" width="220" height="150" alt="Zindi certificate">
+  <img src="./certificates/Jack517-Togo Fiber Optics Uptake Prediction Challenge.png" width="220" height="150" alt="Zindi certificate">
+  <img src="./certificates/3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg" width="220" height="150" alt="Kaggle certificate">
+</p>
 ---
 
 ## 🏆 Featured Competitions
@@ -61,6 +70,13 @@ Most projects use a standardized Python environment.
 
 ---
 
+## 📢 They Talked About Me
+
+- [🏆 We Have Our Winners! The 3LC.AI Cotton Weed Detection Challenge Has Concluded!](https://www.linkedin.com/posts/rishikesh-avinash-jadhav_machinelearning-computervision-objectdetection-activity-7404907853053894656-rG2h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJj1SUB_L3iOMcPsW2TH2IBriNt5c5htPc) — **LinkedIn post** | December 10, 2025
+- [Press release – Awards ceremony “AI Challenge: Predicting the adoption of fiber optics in Togo”](https://digital.gouv.tg/evenements/ceremonie-de-remise-de-prix-challenge-ia?lang=en) — **The Ministry of Digital Economy and Digital Transformation (MENTD), through the Togo Digital Agency (ATD) in collaboration with the Zindi Community** | October 18, 2024
+
+---
+
 ## 📫 Connect with Me
 
 - **LinkedIn:** [yehoshua1](https://www.linkedin.com/in/yehoshua1/)
@@ -69,4 +85,4 @@ Most projects use a standardized Python environment.
 
 ---
 
-_Last Updated: 2026-01-31_
+_Last Updated: 2026-02-02_
