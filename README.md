@@ -86,6 +86,7 @@ Most projects use a standardized Python environment.
 
 - **LinkedIn:** [yehoshua1](https://www.linkedin.com/in/yehoshua1/)
 - **Kaggle:** [aaaml007](https://www.kaggle.com/aaaml007)
+- **Zindi:** [yehoshua](https://www.zindi.africa/yehoshua)
 - **Portfolio Website:** [yehoshua.vercel.app](http://yehoshua.vercel.app/)
 
 ---
