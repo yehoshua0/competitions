@@ -41,5 +41,5 @@
   <text x="60" y="45" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#3D2B1F" text-anchor="middle">BRONZE</text>
   
   <!-- Medal Count -->
-  <text x="60" y="85" font-family="Arial, sans-serif" font-size="36" font-weight="black" fill="#3D2B1F" text-anchor="middle">5</text>
+  <text x="60" y="85" font-family="Arial, sans-serif" font-size="36" font-weight="black" fill="#3D2B1F" text-anchor="middle">4</text>
 </svg>
