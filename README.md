@@ -8,13 +8,13 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 
 <p align="center">
   <a href="https://zindi.africa/users/yehoshua">
-    <img src="./img/gold_medal.svg" width="120" height="120" alt="Zindi Gold Medals">
+    <img src="./img/gold_medal.svg" width="120" alt="Zindi Gold Medals">
   </a>
   <a href="https://zindi.africa/users/yehoshua">
-    <img src="./img/silver_medal.svg" width="120" height="120" alt="Zindi Silver Medals">
+    <img src="./img/silver_medal.svg" width="120" alt="Zindi Silver Medals">
   </a>
   <a href="https://zindi.africa/users/yehoshua">
-    <img src="./img/bronze_medal.svg" width="120" height="120" alt="Zindi Bronze Medals">
+    <img src="./img/bronze_medal.svg" width="120" alt="Zindi Bronze Medals">
   </a>
   <br>
   <b>🏆 Zindi Performance 🏆</b><br>
@@ -33,7 +33,7 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
   <!-- Place your certificates in the /certificates folder and reference them here! -->
   <img src="./certificates/yehoshua-MPEG-G Microbiome Classification Challenge.png" width="220" height="150" alt="Zindi certificate">
   <img src="./certificates/Jack517-Togo Fiber Optics Uptake Prediction Challenge.png" width="220" height="150" alt="Zindi certificate">
-  <img src="./certificates/3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg" width="220" height="150" alt="Kaggle certificate">
+  <!-- <img src="./certificates/3LC CottonWeed Detection Challenge Certificate_AYITEY Kodjo Josué_page-0001.jpg" width="220" height="150" alt="Kaggle certificate"> -->
 </p>
 
 ## 🏆 Featured Competitions
