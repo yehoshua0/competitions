@@ -588,7 +588,7 @@ py4j==0.10.9.7
 pyaml==25.7.0
 PyArabic==0.6.15
 pyarrow==22.0.0
-pyasn1==0.6.1
+pyasn1==0.6.2
 pyasn1_modules==0.4.2
 pybind11==3.0.1
 pycairo==1.28.0
