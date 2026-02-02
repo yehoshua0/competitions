@@ -1,0 +1,20 @@
+Subject: Helios Kaggle Challenge — Winner Verification — aaaml007 / yehoshua
+
+Dear Helios Team,
+
+Please find attached the required materials for the winner verification of our prize-eligible submission.
+
+**Reference:**
+- Kaggle Username: aaaml007
+- Team Name: yehoshua
+- Submission: "Helios Corn Futures Climate Challenge | Version 2" (Score: 63.64000)
+
+**Attached Materials:**
+1. **Reproducibility Instructions:** (See `Reproducibility_Instructions.md`)
+2. **Methodology Summary:** (See `Methodology_Summary.md`)
+3. **Reproducibility Package:** (ZIP archive containing code and requirements)
+
+We confirm that our solution complies with all competition rules, including the anti-gaming provisions regarding the use of futures data.
+
+Best regards,
+Team yehoshua
