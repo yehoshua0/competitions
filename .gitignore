@@ -1,8 +1,12 @@
 # Workspace files
 .todo
+kaggle.json
 
 # Competition files
 .venv
 __pycache__
-data
-submissions
+# Ignore contents of data and submissions folders, but keep .txt files
+**/data/*
+!**/data/*.txt
+**/submissions/*
+!**/submissions/*.txt

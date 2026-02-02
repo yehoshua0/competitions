@@ -40,8 +40,8 @@ Previous portfolio can be found [here](https://github.com/yehoshua0/y_datascienc
 
 | Competition                                                                   | Domain | Platform | Core Tech                 | Highlights                                              |
 | :---------------------------------------------------------------------------- | :----- | :------- | :------------------------ | :------------------------------------------------------ |
-| **[Telco Troubleshooting](./The%20AI%20Telco%20Troubleshooting%20Challenge)** | NLP    | -        | Qwen2.5, SFT, LoRA        | Specialised edge-cloud LLM for network fault detection. |
-| **[Helios Corn Futures](./Helios%20Corn%20Futures%20Climate%20Challenge)**    | ML     | Helios   | Climate Data, Forecasting | Climate challenge focused on commodity futures (WIP).   |
+| **[Telco Troubleshooting](./The%20AI%20Telco%20Troubleshooting%20Challenge)** | NLP    | Zindi    | Qwen2.5, SFT, LoRA        | Specialised edge-cloud LLM for network fault detection. |
+| **[Helios Corn Futures](./Helios%20Corn%20Futures%20Climate%20Challenge)**    | ML     | Kaggle   | Climate Data, Forecasting | Climate challenge focused on commodity futures (WIP).   |
 
 ---
 
