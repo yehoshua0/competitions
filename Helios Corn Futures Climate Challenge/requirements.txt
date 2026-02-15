@@ -756,7 +756,7 @@ sphinxcontrib-serializinghtml==2.0.0
 SQLAlchemy==1.2.19
 sqlalchemy-spanner==1.17.0
 sqlglot==25.20.2
-sqlparse==0.5.3
+sqlparse==0.5.4
 squarify==0.4.4
 srsly==2.5.1
 sse-starlette==3.0.2
