@@ -248,7 +248,7 @@ google-resumable-media==2.7.2
 googleapis-common-protos==1.71.0
 googledrivedownloader==1.1.0
 gpxpy==1.6.2
-gradio==5.49.1
+gradio==6.7.0
 gradio_client==1.13.3
 grain==0.2.15
 graphviz==0.21
