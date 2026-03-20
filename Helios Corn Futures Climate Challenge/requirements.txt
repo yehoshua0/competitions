@@ -601,7 +601,7 @@ pydantic==2.12.5
 pydantic-settings==2.11.0
 pydantic_core==2.41.5
 pydata-google-auth==1.9.1
-pydicom==3.0.1
+pydicom==3.0.2
 pydot==3.0.4
 pydotplus==2.0.2
 PyDrive2==1.21.3
