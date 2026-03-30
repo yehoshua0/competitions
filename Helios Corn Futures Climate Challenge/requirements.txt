@@ -613,7 +613,7 @@ pyexcel-ods==0.6.0
 pygame==2.6.1
 pygit2==1.18.2
 pygltflib==1.16.5
-Pygments==2.19.2
+Pygments==2.20.0
 PyGObject==3.42.0
 PyJWT==2.10.1
 pyLDAvis==3.4.1
