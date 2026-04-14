@@ -640,7 +640,7 @@ PySocks==1.7.1
 pyspark==3.5.1
 pytensor==2.35.1
 pytesseract==0.3.13
-pytest==8.4.2
+pytest==9.0.3
 python-apt==0.0.0
 python-bidi==0.6.7
 python-box==7.3.2
