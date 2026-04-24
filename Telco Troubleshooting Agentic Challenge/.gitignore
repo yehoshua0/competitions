@@ -1,0 +1,5 @@
+# Miscellaneous files
+misc
+
+# Environment variable files
+.env

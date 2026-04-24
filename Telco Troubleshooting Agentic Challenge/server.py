@@ -10,7 +10,7 @@ import pandas as pd
 from fastapi import FastAPI, Query, HTTPException, Depends, Header
 from fastapi.middleware.cors import CORSMiddleware
 from _types import Scenario
-from utils import get_fields_at_time, get_fields_before_time, df_all_or_none, df_first_or_none, _env_bool, load_scenarios
+from misc.utils import get_fields_at_time, get_fields_before_time, df_all_or_none, df_first_or_none, _env_bool, load_scenarios
 import numpy as np
 
 app = FastAPI(title="5G Drive-Test Analysis API", version="1.2.0")

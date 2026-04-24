@@ -15,7 +15,7 @@ from openai import OpenAI, RateLimitError, APIConnectionError, APITimeoutError, 
 
 from _types import ToolCall
 from logger import init_logger
-from utils import (
+from misc.utils import (
     print_model_response,
     print_tool_call,
     print_tool_result,
