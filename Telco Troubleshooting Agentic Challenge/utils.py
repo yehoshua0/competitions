@@ -153,18 +153,11 @@ def extract_answer_all(response: str):
         return ""
 
 
-def compute_score(gt: str, answer: str, decision="hard"):
-    if '|' in gt:
-        gts = gt.split("|")
-        return any([compute_score(g, answer, decision) for g in gts])
-    try:
-        if decision == "soft":
-            match = re.search(r'\d+', gt)
-            gt_int = int(match.group()) if match else None
-            match = re.search(r'\d+', answer)
-            answer_int = int(match.group()) if match else None
-            return gt_int == answer_int
-        else:
-            return gt.lower() == answer.lower()
-    except:
-        return False
+def compute_score(gt: str, pred: str) -> float:
+    gt_set   = {s.strip().upper() for s in (gt   or "").split("|") if s.strip()}
+    pred_set = {s.strip().upper() for s in (pred or "").split("|") if s.strip()}
+    if not gt_set and not pred_set:
+        return 1.0
+    if not gt_set or not pred_set:
+        return 0.0
+    return len(gt_set & pred_set) / len(gt_set | pred_set)
