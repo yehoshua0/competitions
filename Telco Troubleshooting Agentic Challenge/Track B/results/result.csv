@@ -1,0 +1,145 @@
+﻿id,prediction
+1,"Gamma-Aegis-01(GE1/0/0)->Gamma-Portal-01(GE1/0/4)
+Gamma-Aegis-01(GE1/0/1)->Gamma-Portal-02(GE1/0/4)
+Gamma-Aegis-01(GE1/0/2)->Gamma-Aegis-02(GE1/0/2)"
+1,"Gamma-Aegis-01(GE1/0/0)->Gamma-Portal-01(GE1/0/4)
+Gamma-Aegis-01(GE1/0/1)->Gamma-Portal-02(GE1/0/4)
+Gamma-Aegis-01(GE1/0/2)->Gamma-Aegis-02(GE1/0/2)"
+3,"Beta-Aegis-02(GE1/0/0)->Beta-Portal-01(GE1/0/5)
+Beta-Aegis-02(GE1/0/1)->Beta-Portal-02(GE1/0/5)
+Beta-Aegis-02(GE1/0/2)->Beta-Aegis-01(GE1/0/2)"
+2,
+4,"Beta-Portal-02(GE1/0/1)->Beta-Axis-01(GE1/0/1)
+Beta-Portal-02(GE1/0/2)->Beta-Axis-02(GE1/0/1)
+Beta-Portal-02(GE1/0/3)->Beta-Portal-01(GE1/0/3)
+Beta-Portal-02(GE1/0/4)->Beta-Aegis-01(GE0/0/1)
+Beta-Portal-02(GE1/0/5)->Beta-Aegis-02(GE0/0/1)
+Beta-Portal-02(GE1/0/6)->Alpha-Center-01(GE1/0/2)
+Beta-Portal-02(GE1/0/7)->Alpha-Center-02(GE1/0/2)"
+5,"Delta-Node-01(GE1/0/1)->Delta-Axis-01(GE1/0/1)
+Delta-Node-01(GE1/0/2)->Delta-Axis-02(GE1/0/1)
+Delta-Node-01(GE1/0/3)->Delta-Node-02(GE1/0/3)"
+6,"Delta-Axis-01(GE1/0/1)->Delta-Node-01(GE1/0/1)
+Delta-Axis-01(GE1/0/2)->Delta-Node-02(GE1/0/1)
+Delta-Axis-01(GE1/0/3)->Delta-Node-03(GE1/0/1)
+Delta-Axis-01(GE1/0/4)->Delta-Node-04(GE1/0/1)
+Delta-Axis-01(GE1/0/5)->Delta-Portal-01(GE1/0/1)
+Delta-Axis-01(GE1/0/6)->Delta-Portal-02(GE1/0/1)"
+8,
+9,
+11,Beta-Node-03->Beta-Axis-02->Beta-Portal-02->Alpha-Center-02
+12,
+13,
+14,
+15,
+16,
+17,
+19,
+18,
+20,Beta-Node-01;192.168.74.13;ARP configuration error
+21,
+22,
+23,
+24,Beta-Aegis-01;192.168.72.78;ARP configuration error
+25,
+27,
+26,
+28,Beta-Node-01;192.168.70.93;ARP configuration error
+30,
+29,
+31,
+33,
+32,
+34,
+35,
+36,
+37,
+39,
+38,
+40,
+42,Demeter-Prime-02;MAC address configuration error
+41,
+43,Hermes-Prime-01;20.1.1.10;missing static route
+44,Demeter-Prime-02;10.60.1.2;missing static route
+45,
+46,Hermes-Prime-01;20.1.1.10;missing static route
+47,Hermes-Prime-02;20.1.1.20;missing static route
+48,Hermes-Prime-02;20.1.1.20;missing static route
+49,Hermes-Prime-01;20.1.4.10;missing static route
+50,Hermes-Prime-01;10.1.1.20;ARP configuration error
+1,"Gamma-Aegis-01(GE1/0/0)->Gamma-Portal-01(GE1/0/4)
+Gamma-Aegis-01(GE1/0/1)->Gamma-Portal-02(GE1/0/4)
+Gamma-Aegis-01(GE1/0/2)->Gamma-Aegis-02(GE1/0/2)"
+3,"Beta-Aegis-02(GE1/0/0)->Beta-Portal-01(GE1/0/5)
+Beta-Aegis-02(GE1/0/1)->Beta-Portal-02(GE1/0/5)
+Beta-Aegis-02(GE1/0/2)->Beta-Aegis-01(GE1/0/2)"
+2,
+4,"Beta-Portal-02(GE1/0/1)->Beta-Axis-01(GE1/0/1)
+Beta-Portal-02(GE1/0/2)->Beta-Axis-02(GE1/0/1)
+Beta-Portal-02(GE1/0/3)->Beta-Portal-01(GE1/0/3)
+Beta-Portal-02(GE1/0/4)->Beta-Aegis-01(GE0/0/1)
+Beta-Portal-02(GE1/0/5)->Beta-Aegis-02(GE0/0/1)
+Beta-Portal-02(GE1/0/6)->Alpha-Center-01(GE1/0/2)
+Beta-Portal-02(GE1/0/7)->Alpha-Center-02(GE1/0/2)"
+5,"Delta-Node-01(GE1/0/1)->Delta-Axis-01(GE1/0/1)
+Delta-Node-01(GE1/0/2)->Delta-Axis-02(GE1/0/1)
+Delta-Node-01(GE1/0/3)->Delta-Node-02(GE1/0/3)"
+6,"Delta-Axis-01(GE1/0/1)->Delta-Node-01(GE1/0/1)
+Delta-Axis-01(GE1/0/2)->Delta-Node-02(GE1/0/1)
+Delta-Axis-01(GE1/0/3)->Delta-Node-03(GE1/0/1)
+Delta-Axis-01(GE1/0/4)->Delta-Node-04(GE1/0/1)
+Delta-Axis-01(GE1/0/5)->Delta-Portal-01(GE1/0/1)
+Delta-Axis-01(GE1/0/6)->Delta-Portal-02(GE1/0/1)"
+7,"<tool_call>
+<function=execute_command>
+<parameter=device_name>
+Beta-Axis-02
+</parameter>
+<parameter=command>
+display ip routing-table
+</parameter>
+</function>
+</tool_call>"
+8,Unable to determine path - all device commands returned permission errors
+9,Path cannot be determined - all device commands returned permission errors
+11,
+10,
+12,
+13,
+14,Delta-Node-02->Delta-Axis-02->Delta-Portal-02->Alpha-Center-01->Gamma-Portal-02->Gamma-Axis-02->Gamma-Node-02
+16,
+15,
+18,Beta-Node-01;GE1/0/2;interface IP error
+17,
+20,Beta-Node-01;192.168.74.13;missing static route
+19,
+21,
+22,
+23,Delta-Node-01;192.168.74.61;missing static route
+24,Beta-Aegis-01;192.168.72.78;missing static route
+25,
+26,
+27,
+28,Beta-Node-01;192.168.70.93;missing static route
+30,
+29,
+31,
+32,
+34,
+33,
+35,
+36,
+37,Hermes-Node-01->Demeter-Node-01
+38,
+39,Hermes-Prime-01;20.1.1.10;missing static route
+40,
+41,Demeter-Prime-01;10.1.6.3;missing static route
+42,
+43,Hermes-Prime-01;20.1.1.10;missing static route
+44,
+45,
+46,Hermes-Prime-01;20.1.1.10;missing static route
+47,Hermes-Prime-02;20.1.1.20;missing static route
+48,Hermes-Prime-02;20.1.1.20;missing static route
+49,
+50,

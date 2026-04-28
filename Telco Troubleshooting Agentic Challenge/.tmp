@@ -1,0 +1,3 @@
+claude --resume c960f589-d769-49a0-9785-e1d3914e6d36 (track A)
+claude --resume 3461449d-fcb3-4e93-80f1-0e93a33a728e (track B)
+HF token: modal secret create huggingface-secret HF_TOKEN=xxxx

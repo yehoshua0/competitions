@@ -1,0 +1,1284 @@
+2026-04-26 21:37:53 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.25:7860
+2026-04-26 21:37:53 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-26 21:37:53 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-26 21:37:53 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-26 21:37:53 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-26 21:38:28 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:38:28] "[31m[1mGET /api/agent/execute HTTP/1.1[0m" 405 -
+2026-04-26 21:38:28 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:38:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-26 21:38:33 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:38:33] "[33mGET / HTTP/1.1[0m" 404 -
+2026-04-26 21:39:09 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:39:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 400 -
+2026-04-26 21:39:33 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:39:33] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 400 -
+2026-04-26 21:40:02 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:40:02] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 400 -
+2026-04-26 21:40:34 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:40:34] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-26 21:41:53 - [AGENT_ERROR] - 127.0.0.1 - - [26/Apr/2026 21:41:53] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-27 23:11:13 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:11:13 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:11:13 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:11:13 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:11:13 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:11:42 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:11:42 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:11:42 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:11:43 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:11:43 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:31:36 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:31:36 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:31:36 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:31:36 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:31:36 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:31:37 - [AGENT_ERROR] - 127.0.0.1 - - [27/Apr/2026 23:31:37] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-27 23:32:53 - [AGENT_ERROR] - 127.0.0.1 - - [27/Apr/2026 23:32:53] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-27 23:33:05 - [AGENT_ERROR] - 127.0.0.1 - - [27/Apr/2026 23:33:05] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-27 23:36:43 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:36:43 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:36:43 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:36:43 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:36:43 - [AGENT_ERROR] -  * Restarting with stat
+ a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:36:43 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:36:43 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:36:43 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://10.9.8.3:7860
+2026-04-27 23:36:43 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-27 23:36:43 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:36:43 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:36:54 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:36:57 - [AGENT_ERROR] - 127.0.0.1 - - [27/Apr/2026 23:36:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-27 23:37:05 - [AGENT_ERROR] - 127.0.0.1 - - [27/Apr/2026 23:37:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:43:31 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:43:36 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:43:36 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:43:36 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:43:36 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:43:36 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:43:36 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:54:27 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:54:27 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:54:27 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:54:27 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:54:27 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:55:14 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:55:14 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:55:14 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:55:14 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:55:14 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:55:14 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:57:57 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:57:57 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:57:57 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:57:57 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:57:57 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:57:57 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:58:02 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:58:02 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:58:02 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:58:02 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:58:02 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:58:02 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:58:14 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:58:14 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:58:14 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-27 23:58:14 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:58:14 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:58:14 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-27 23:58:19 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:58:19 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-27 23:58:19 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:58:19 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-27 23:58:19 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:06:03 - [AGENT_ERROR] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7860
+ * Running on http://192.168.201.142:7860
+2026-04-28 12:06:03 - [AGENT_ERROR] - [33mPress CTRL+C to quit[0m
+2026-04-28 12:06:03 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:06:09 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:06:09 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:16:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:16:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:16:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:16:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:27 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:27] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:35] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:40] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:17:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:17:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:17:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:18:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:17 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.22'
+2026-04-28 12:18:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:17] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:18:18 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.22 30'
+2026-04-28 12:18:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:18] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:18:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:19] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:19] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:25 - [AGENT_ERROR] - Device: Beta-Axis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.22'
+2026-04-28 12:18:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:25] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:18:27 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:27] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:37] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:18:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:18:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:19:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:01] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:02] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:02] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:03] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:04] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:04] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:07] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:07] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:09 - [AGENT_ERROR] - Device: Gamma-Node-01 (huawei) | Syntax Error: 'display version'
+2026-04-28 12:19:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:19:11 - [AGENT_ERROR] - Device: Gamma-Node-01 (huawei) | Syntax Error: 'show ip route'
+2026-04-28 12:19:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:11] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:19:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:14] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:14 - [AGENT_ERROR] - Device: Gamma-Node-01 (huawei) | Syntax Error: 'show ip interface brief'
+2026-04-28 12:19:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:14] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:19:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:16] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:17] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:19] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:19:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:19:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:19:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:19:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:19:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:19:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:19:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:17] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:20:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:20:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:20:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:17] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:21:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:21:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:18] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:18] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:22:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:22:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:35] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:47 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46'
+2026-04-28 12:23:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:47] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:23:48 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46 30'
+2026-04-28 12:23:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:48] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:23:50 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46 255.255.255.252'
+2026-04-28 12:23:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:50] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:23:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:23:57 - [AGENT_ERROR] - Device: Beta-Portal-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46'
+2026-04-28 12:23:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:23:57] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:24:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:24:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:24:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:24:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:24:07 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:27:47 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - Device: Alpha-Center-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46'
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:27:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:27:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:06 - [AGENT_ERROR] - Device: Beta-Axis-02 (huawei) | Syntax Error: 'display interface GE1/0/7'
+2026-04-28 12:28:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:06] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:28:06 - [AGENT_ERROR] - Device: Beta-Portal-02 (huawei) | Syntax Error: 'display interface GE1/0/7'
+2026-04-28 12:28:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:06] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:28:06 - [AGENT_ERROR] - Device: Alpha-Center-02 (huawei) | Syntax Error: 'display interface GE1/0/7'
+2026-04-28 12:28:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:06] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:28:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:43] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:28:56 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 12:28:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:56] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:28:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:28:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:01 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GigabitEthernet 1/0/2'
+2026-04-28 12:29:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:01] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:29:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:09 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration interface GigabitEthernet 1/0/2'
+2026-04-28 12:29:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:29:09 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 12:29:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:29:13 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration | include GigabitEthernet 1/0/2'
+2026-04-28 12:29:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:13] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:29:13 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GigabitEthernet 1/0/2'
+2026-04-28 12:29:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:13] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:29:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:19] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:58 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13'
+2026-04-28 12:29:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:29:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:29:59 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13 30'
+2026-04-28 12:29:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:29:59] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:30:01 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13'
+2026-04-28 12:30:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:01] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:30:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:23 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 12:30:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:23] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:30:38 - [AGENT_ERROR] - Device: Gamma-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 12:30:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:38] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:30:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:49] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:30:59 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.61'
+2026-04-28 12:30:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:30:59] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:31:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:12 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display arp | include 192.168.72.21'
+2026-04-28 12:31:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:12] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:31:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:18] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:28 - [AGENT_ERROR] - Device: Beta-Aegis-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.78'
+2026-04-28 12:31:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:31:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:31:58 - [AGENT_ERROR] - Device: Beta-Portal-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.78'
+2026-04-28 12:31:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:31:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:31:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:49] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:32:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:32:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:17] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:30] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:33:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:33:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:34:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:34:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:34:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:34:12 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 12:34:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:12] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:34:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:34:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:18] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:21] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:34:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:22] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:34:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:28] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:30] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:35] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:38] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:46] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:52] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:54] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:34:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:55] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:34:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:57] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:34:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:34:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:35:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:01] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:35:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:35:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:35:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:35:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:18] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:35:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:22] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:35:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:26] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:35:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:31] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:35:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:53] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:35:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:54] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:35:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:57] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 12:35:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:35:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:00] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:36:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:07] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:36:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:08] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:36:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:13] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 12:36:18 - [AGENT_ERROR] - Device: Janus-Node-02 (huawei) | Syntax Error: 'display interface Eth-Trunk1'
+2026-04-28 12:36:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:18] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:36:20 - [AGENT_ERROR] - Device: Janus-Node-02 (huawei) | Resource Not Found (Missing TXT) for: 'display eth-trunk 1'
+2026-04-28 12:36:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:20] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:36:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:27 - [AGENT_ERROR] - Device: Janus-Node-02 (huawei) | Syntax Error: 'display current-configuration interface Eth-Trunk1'
+2026-04-28 12:36:27 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:27] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:36:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:35 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20'
+2026-04-28 12:36:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:35] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:36:36 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20 255.255.255.255'
+2026-04-28 12:36:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:36:38 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20'
+2026-04-28 12:36:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:38] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:36:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:43] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:36:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:36:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:10 - [AGENT_ERROR] - Device: Demeter-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20'
+2026-04-28 12:37:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:10] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:37:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:44 - [AGENT_ERROR] - Device: Hermes-Node-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.10'
+2026-04-28 12:37:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:44] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:37:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:47 - [AGENT_ERROR] - Device: Hermes-Node-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 12:37:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:47] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:37:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:49] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:37:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:37:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:02 - [AGENT_ERROR] - Device: Demeter-Node-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 12:38:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:02] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:38:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:25 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.20'
+2026-04-28 12:38:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:25] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:38:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:30] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:36 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 12:38:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:38:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:37] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:44 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display interface Vlanif50'
+2026-04-28 12:38:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:44] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:38:45 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display interface Vlanif 50'
+2026-04-28 12:38:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:45] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:38:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:38:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:38:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:29 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.6.3'
+2026-04-28 12:39:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:29] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:39:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:39:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:39:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:00 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.6.3'
+2026-04-28 12:40:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:00] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:40:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:55 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 12:40:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:55] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:40:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:40:58 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 10.60.1.2'
+2026-04-28 12:40:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:40:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:40:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:05 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display interface Vlanif50'
+2026-04-28 12:41:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:05] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:41:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:53 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 12:41:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:53] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:41:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:41:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:41:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:19 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 12:42:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:19] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:19 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 12:42:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:19] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:28 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.10'
+2026-04-28 12:42:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:37] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:38 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20'
+2026-04-28 12:42:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:38] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:43 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display interface Vlanif10'
+2026-04-28 12:42:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:43] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:44 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display interface Vlanif 10'
+2026-04-28 12:42:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:44] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:46 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display interface Vlanif10'
+2026-04-28 12:42:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:46] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:50 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display arp | include 10.1.1.20'
+2026-04-28 12:42:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:50] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 12:42:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:42:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 12:42:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:53:18 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 12:53:28 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:53:28 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:53:28 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:53:28 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:53:28 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:53:28 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 12:53:29 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 12:53:29 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:37 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:43 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:45 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:00:51 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Detected change in 'D:\\Me\\Competitions\\Telco Troubleshooting Agentic Challenge\\Track B\\main.py', reloading
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:01:03 - [AGENT_ERROR] -  * Restarting with stat
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger is active!
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:01:08 - [AGENT_ERROR] -  * Debugger PIN: 623-536-479
+2026-04-28 13:03:27 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:27] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:44] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:03:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:03:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:03:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:23] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:04:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:34 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.22'
+2026-04-28 13:04:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:34] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:04:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:35] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:37] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:52] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:04:52 - [AGENT_ERROR] - Device: Beta-Axis-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.22'
+2026-04-28 13:04:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:52] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:04:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:53] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:04:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:04:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:55] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:04:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:57] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:04:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:04:59] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:05:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:29] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:05:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:30] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:05:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:32] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:05:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:36] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:05:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:37] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:05:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:05:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:05:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:24] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:06:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:06:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:17] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:30] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:35] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:49] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:07:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:07:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:08 - [AGENT_ERROR] - Device: Delta-Axis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.30'
+2026-04-28 13:08:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:08] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:09 - [AGENT_ERROR] - Device: Delta-Axis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.30/32'
+2026-04-28 13:08:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:12 - [AGENT_ERROR] - Device: Delta-Axis-02 (huawei) | Syntax Error: 'display ip routing-table | include 192.168.70'
+2026-04-28 13:08:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:12] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:23] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:33] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:37] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:39 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46'
+2026-04-28 13:08:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:39] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:40 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46 30'
+2026-04-28 13:08:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:40] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:42 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.46 30'
+2026-04-28 13:08:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:42] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:43] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:43] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:46 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44 30'
+2026-04-28 13:08:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:46] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:47 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:08:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:47] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:49 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table | include 192.168.72'
+2026-04-28 13:08:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:49] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:53 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.0 24'
+2026-04-28 13:08:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:53] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:55 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.0 255.255.255.0'
+2026-04-28 13:08:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:55] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:08:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:08:58 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table | tail -100'
+2026-04-28 13:08:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:08:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:00 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:09:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:00] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:02 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44 255.255.255.252'
+2026-04-28 13:09:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:02] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:03 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:09:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:03] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:06 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:09:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:06] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:09:09 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:09:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:09:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:09:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:09:20 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.0 255.255.255.0'
+2026-04-28 13:09:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:20] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:24 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:09:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:24] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:09:29 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.44'
+2026-04-28 13:09:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:29] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:33 - [AGENT_ERROR] - Device: Beta-Aegis-02 (huawei) | Syntax Error: 'show ip route 192.168.72.44'
+2026-04-28 13:09:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:33] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:09:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:09:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:09:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:15 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 13:10:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:15] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:16 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2 verbose'
+2026-04-28 13:10:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:16] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:18 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 13:10:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:18] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:19 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration interface GE1/0/2'
+2026-04-28 13:10:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:19] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:21 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration | include interface GE1/0/2'
+2026-04-28 13:10:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:21] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:10:53 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13'
+2026-04-28 13:10:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:53] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:53 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2'
+2026-04-28 13:10:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:53] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:55 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GigabitEthernet 1/0/2'
+2026-04-28 13:10:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:55] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:55 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13 30'
+2026-04-28 13:10:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:55] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:57 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display interface GE1/0/2 brief'
+2026-04-28 13:10:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:57] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:57 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13'
+2026-04-28 13:10:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:57] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:10:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:10:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:05 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.0 30'
+2026-04-28 13:11:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:05] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:07 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.0'
+2026-04-28 13:11:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:07] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:09 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | include 192.168.74'
+2026-04-28 13:11:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:11 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | begin 192.168.74'
+2026-04-28 13:11:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:11] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:12 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration interface GE1/0/2'
+2026-04-28 13:11:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:12] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:14 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.13'
+2026-04-28 13:11:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:14] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:16 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | tail -100'
+2026-04-28 13:11:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:16] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:18] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:26 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 0.0.0.0'
+2026-04-28 13:11:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:26] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:28 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 0.0.0.0/0'
+2026-04-28 13:11:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:31 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | grep 192.168.74'
+2026-04-28 13:11:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:31] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:11:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:40] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:11:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:11:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:39 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.61'
+2026-04-28 13:12:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:39] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:41 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.61 30'
+2026-04-28 13:12:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:41] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:43 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.61 mask 30'
+2026-04-28 13:12:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:43] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:44 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.61 mask 255.255.255.252'
+2026-04-28 13:12:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:44] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:48 - [AGENT_ERROR] - Device: Beta-Aegis-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.78'
+2026-04-28 13:12:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:48] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:48 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:12:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:48] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:50 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 30'
+2026-04-28 13:12:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:50] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:54 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:12:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:54] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:56 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | include 192.168.74'
+2026-04-28 13:12:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:56] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:12:56 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:56] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:12:59 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60'
+2026-04-28 13:12:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:12:59] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:02 - [AGENT_ERROR] - Device: Beta-Aegis-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.72.76 255.255.255.252'
+2026-04-28 13:13:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:02] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:11 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | tail -100'
+2026-04-28 13:13:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:11] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:13 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:13] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:15 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:15] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:17 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:17] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:21 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:21] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:23 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60'
+2026-04-28 13:13:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:23] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:26 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:26] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:28 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:30 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:30] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:34 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:34] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:36 - [AGENT_ERROR] - Device: Delta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.74.60 255.255.255.252'
+2026-04-28 13:13:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:13:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:43] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:13:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:13:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:01 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration interface'
+2026-04-28 13:14:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:01] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:14:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:14:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:14:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:18] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:26 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display current-configuration interface'
+2026-04-28 13:15:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:26] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:15:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:33 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.93'
+2026-04-28 13:15:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:33] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:15:34 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.93/32'
+2026-04-28 13:15:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:34] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:15:36 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | include 192.168.70'
+2026-04-28 13:15:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:15:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:41 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table | tail -50'
+2026-04-28 13:15:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:41] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:15:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:15:46 - [AGENT_ERROR] - Device: Beta-Node-01 (huawei) | Syntax Error: 'display ip routing-table 192.168.70.0 255.255.255.0'
+2026-04-28 13:15:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:15:46] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:16:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:22] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:16:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:23] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:23] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:16:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:29 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:29] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:35] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:16:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:35] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:16:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:41] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:16:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:46] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:16:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:50] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:16:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:53] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:16:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:54] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:16:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:16:59] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:11] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:17:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:11] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:17:12 - [AGENT_ERROR] - Device: Janus-Prime-01 (huawei) | Syntax Error: 'show lldp neighbors'
+2026-04-28 13:17:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:12] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:17:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:17:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:14] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:18] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:17:24 - [AGENT_ERROR] - Device: Janus-Prime-01 (huawei) | Syntax Error: 'display interface GE1/0/0'
+2026-04-28 13:17:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:24] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:17:25 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:25] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:17:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:31] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:32] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:41] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:17:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:50] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:50] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:17:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:52] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:52] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:17:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:53] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:55] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:17:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:17:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:17:59] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:18:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:00] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:18:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:18:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:18:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:20] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:18:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:30] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:18:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:31] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:18:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:18:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 403 -
+2026-04-28 13:18:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:41] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:18:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:46] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:18:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:47] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:18:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:48] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:18:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:18:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:00] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:19:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:01] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:19:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:02] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:19:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:03] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:19:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:04] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:05 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20'
+2026-04-28 13:19:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:05] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:19:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:17] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:19:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:19] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:19:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:54 - [AGENT_ERROR] - Device: Hermes-Node-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.10'
+2026-04-28 13:19:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:54] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:19:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:58] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:19:58 - [AGENT_ERROR] - Device: Hermes-Node-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.0 24'
+2026-04-28 13:19:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:19:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:20:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:45 - [AGENT_ERROR] - Device: Hermes-Node-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:20:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:45] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:20:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:48] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:49] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:20:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:20:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:37 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 13:21:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:37] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:42 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.6.3'
+2026-04-28 13:21:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:42] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:42 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0 24'
+2026-04-28 13:21:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:42] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:45 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10 32'
+2026-04-28 13:21:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:45] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:47 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:47] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:48 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | include 20.1.1'
+2026-04-28 13:21:48 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:48] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:49 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 13:21:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:49] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:51 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | begin 20.1'
+2026-04-28 13:21:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:51] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:52 - [AGENT_ERROR] - Device: Alpha-Center-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.6.3'
+2026-04-28 13:21:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:52] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:54] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:21:54 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | tail -50'
+2026-04-28 13:21:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:54] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:21:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:21:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:21:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:08] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:30 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.6.3'
+2026-04-28 13:22:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:30] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:22:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:31] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:22:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:22:49] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:06] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:08 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 13:23:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:08] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:08 - [AGENT_ERROR] - Device: Demeter-Prime-02 (huawei) | Syntax Error: 'display mac-address | include 0000-0000-0070'
+2026-04-28 13:23:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:08] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:10] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:12 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display arp | include 20.1.1.10'
+2026-04-28 13:23:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:12] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:14 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0'
+2026-04-28 13:23:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:14] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:16 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | include 20.1'
+2026-04-28 13:23:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:16] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:20 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 0.0.0.0'
+2026-04-28 13:23:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:20] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:23] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:26 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | tail -50'
+2026-04-28 13:23:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:26] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:35 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | grep 20'
+2026-04-28 13:23:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:35] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:40 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0 255.255.255.0'
+2026-04-28 13:23:40 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:40] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:41 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 13:23:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:41] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:44 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:44] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:51 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 10.60.1.2'
+2026-04-28 13:23:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:51] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:53] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:57 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.60.1.2'
+2026-04-28 13:23:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:57] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:23:57 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:57] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:23:59 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:23:59] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:01 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display interface Vlanif50'
+2026-04-28 13:24:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:01] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:24:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:01] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:09] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:09 - [AGENT_ERROR] - Device: Demeter-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 10.60.1.0'
+2026-04-28 13:24:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:09] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:24:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:11] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:13 - [AGENT_ERROR] - Device: Demeter-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.60.1.0'
+2026-04-28 13:24:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:13] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:24:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:15 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:15] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:19 - [AGENT_ERROR] - Device: Demeter-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | include 10.60'
+2026-04-28 13:24:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:19] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:24:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:53 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 13:24:53 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:53] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:24:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:54] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:24:58 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:24:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:24:58 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0 24'
+2026-04-28 13:24:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:24:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:00 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:25:00 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:00] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:01 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:25:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:01] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:01] "[33mPOST /api/agent/execute HTTP/1.1[0m" 404 -
+2026-04-28 13:25:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:03] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:03 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.10'
+2026-04-28 13:25:03 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:03] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:05 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | include 20.1.1'
+2026-04-28 13:25:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:05] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:05 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:05] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:07 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table verbose'
+2026-04-28 13:25:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:07] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:08 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20 24'
+2026-04-28 13:25:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:08] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:10 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0'
+2026-04-28 13:25:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:10] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:10 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table | include 20.1.1'
+2026-04-28 13:25:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:10] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:12 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:12] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:14 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:14] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:16 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:16] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:18 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:18] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:19 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:25:19 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:19] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:21] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:23 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table | begin 20.1'
+2026-04-28 13:25:23 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:23] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:26 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:25:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:26] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:28] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:30 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0 24'
+2026-04-28 13:25:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:30] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:36 - [AGENT_ERROR] - Device: Demeter-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | include 20.1.1'
+2026-04-28 13:25:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:38 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:38] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:45] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:51 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.20'
+2026-04-28 13:25:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:51] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:52] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:54 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display arp | include 20.1.1.20'
+2026-04-28 13:25:54 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:54] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:25:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:25:58 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table 20.1.1.0 255.255.255.0'
+2026-04-28 13:25:58 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:25:58] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:02 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:02] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:04 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table | include 20.1.1'
+2026-04-28 13:26:04 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:04] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:07 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:07] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:08 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table | tail -50'
+2026-04-28 13:26:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:08] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:10 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table verbose'
+2026-04-28 13:26:10 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:10] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:13 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:13] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:17 - [AGENT_ERROR] - Device: Hermes-Prime-02 (huawei) | Syntax Error: 'display ip routing-table | grep 20'
+2026-04-28 13:26:17 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:17] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:21 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.10'
+2026-04-28 13:26:21 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:21] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:22] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:24 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.0 24'
+2026-04-28 13:26:24 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:24] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:26 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:26] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:28 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table | include 20.1.4'
+2026-04-28 13:26:28 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:28] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:30] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:32 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 10.1.1.20'
+2026-04-28 13:26:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:32] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:32] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:34 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:34] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:36] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:36 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.10'
+2026-04-28 13:26:36 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:36] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:39] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:39 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.0 255.255.255.0'
+2026-04-28 13:26:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:39] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:42 - [AGENT_ERROR] - Device: Hermes-Prime-01 (huawei) | Syntax Error: 'display ip routing-table 20.1.4.10'
+2026-04-28 13:26:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:42] "[31m[1mPOST /api/agent/execute HTTP/1.1[0m" 422 -
+2026-04-28 13:26:42 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:42] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:46 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:46] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:50 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:50] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:51] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:26:55 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:26:55] "POST /api/agent/execute HTTP/1.1" 200 -
+2026-04-28 13:33:31 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:33:31] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:33:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:33:33] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:41:49 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:41:49] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:41:51 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:41:51] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:42:20 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:42:20] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:42:22 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:42:22] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:42:35 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:42:35] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:42:37 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:42:37] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:45:39 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:45:39] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:45:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:45:41] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:46:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:46:30] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:46:33 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:46:33] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:47:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:47:41] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:48:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:48:01] "[33mGET / HTTP/1.1[0m" 404 -
+2026-04-28 13:48:01 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:48:01] "[33mGET /health HTTP/1.1[0m" 404 -
+2026-04-28 13:49:30 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:49:30] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:49:32 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:49:32] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:49:41 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:49:41] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:49:43 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:49:43] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:50:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:50:08] "[33mGET /health HTTP/1.1[0m" 404 -
+2026-04-28 13:50:08 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:50:08] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:53:06 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:53:06] "[33mGET /health HTTP/1.1[0m" 404 -
+2026-04-28 13:53:52 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:53:52] "[33mGET /health HTTP/1.1[0m" 404 -
+2026-04-28 13:54:09 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:54:09] "[33mGET /tools HTTP/1.1[0m" 404 -
+2026-04-28 13:54:11 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:54:11] "[33mGET /scenario/all HTTP/1.1[0m" 404 -
+2026-04-28 13:58:45 - [AGENT_ERROR] - 127.0.0.1 - - [28/Apr/2026 13:58:45] "[33mGET /health HTTP/1.1[0m" 404 -
