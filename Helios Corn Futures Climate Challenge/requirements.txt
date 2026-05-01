@@ -815,7 +815,7 @@ torchmetrics==1.8.2
 torchsummary==1.5.1
 torchtune==0.6.1
 torchvision==0.23.0+cu126
-tornado==6.5.1
+tornado==6.5.5
 TPOT==0.12.2
 tqdm==4.67.1
 traitlets==5.7.1
