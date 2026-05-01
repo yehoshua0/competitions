@@ -820,7 +820,7 @@ TPOT==0.12.2
 tqdm==4.67.1
 traitlets==5.7.1
 traittypes==0.2.1
-transformers==4.57.1
+transformers==5.0.0rc3
 treelite==4.4.1
 treescope==0.1.10
 triton==3.4.0
