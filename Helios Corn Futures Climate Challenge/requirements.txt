@@ -645,7 +645,7 @@ python-apt==0.0.0
 python-bidi==0.6.7
 python-box==7.3.2
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.1
+python-dotenv==1.2.2
 python-editor==1.0.4
 python-json-logger==4.0.0
 python-louvain==0.16
