@@ -1,0 +1,9 @@
+# Miscellaneous files
+misc
+
+# Environment variable files
+.env
+
+# Workspace files
+.claude
+__pycache__

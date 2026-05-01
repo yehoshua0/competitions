@@ -1,0 +1,519 @@
+here is the gold response: "Below is the **raw markdown block** to paste, plus exact instructions on **where**, **what to delete**, and **what to keep**.
+
+---
+
+## 1) What to delete (in your README)
+Delete **everything from**:
+
+```md
+### Infrastructure
+```
+
+down to and including the end of the section:
+
+```md
+### GPU setup (RunPod — run once per session)
+...
+```
+
+(i.e., delete the whole old Infrastructure + GPU setup content that mentions **1× A100**, old PyTorch tag, container/volume choices, and anything that doesn’t match your current setup.)
+
+Keep everything **before** `### Infrastructure` and everything **after** your GPU setup section (CPU setup, smoke test, full run, submission zip, etc.).
+
+---
+
+## 2) Where to paste
+Paste the block below **exactly where the old `### Infrastructure` section used to start** (same spot), so the flow remains:
+
+`... Training data landscape ...` → **Infrastructure** → GPU setup → CPU setup → etc.
+
+---
+
+## 3) Raw markdown to paste (copy/paste as-is)
+
+```md
+### Infrastructure (updated)
+
+| Component | Spec | Est. cost |
+|---|---|---:|
+| GPU pod | **2× NVIDIA A100 80GB** on Runpod (Secure Cloud) | **~$2.98/hr** |
+| Model | Qwen/Qwen3.5-35B-A3B (served with TP=2) | — |
+| Serving | **SGLang (GitHub main)** + OpenAI-compatible endpoints | — |
+| Public access | Runpod **HTTPS proxy URL**: `https://<POD_ID>-30000.proxy.runpod.net/v1/...` | — |
+| Notes | 1× A100 80GB can be fragile; **2× A100** is the smooth “always starts” config | — |
+
+> Why 2× A100? In practice the model + runtime allocations (KV cache, mamba cache, CUDA graphs, etc.) can be tight on 1×80GB. With 2×80GB (tensor parallel), startup is stable and throughput is better.
+
+---
+
+### GPU setup (Runpod — run once per session)
+
+#### Pod creation (recommended config)
+
+1. Go to https://console.runpod.io/deploy and deploy a **GPU Pod** (Secure Cloud).
+2. Choose **A100 80GB** and set:
+   - **GPU count:** `2`
+   - **Image / Template:** a Runpod PyTorch image (example: `runpod/pytorch:2.4.0-py3.11-cuda12.4.1-devel-ubuntu22.04`)
+   - **Container disk:** `120 GB`
+   - **Volume disk:** `300 GB`
+   - **Expose ports:** `30000/http` (OpenAI API), plus optional `22/tcp` and `8888/http`
+
+3. Wait until the pod is **Running**.
+4. In the pod page, open **Connect**:
+   - Copy the **HTTP endpoint** corresponding to `30000/http`.
+   - It will look like:
+     ```
+     https://<POD_ID>-30000.proxy.runpod.net
+     ```
+
+---
+
+#### One-time install requirements (inside the pod)
+
+SGLang main requires a few build dependencies.
+
+```bash
+apt-get update
+apt-get install -y \
+  libnuma1 \
+  protobuf-compiler \
+  build-essential \
+  pkg-config \
+  curl
+```
+
+Install Rust (needed because SGLang main builds a Rust component):
+
+```bash
+curl https://sh.rustup.rs -sSf | sh -s -- -y
+source /root/.cargo/env
+```
+
+Upgrade pip tooling:
+
+```bash
+python -m pip install -U pip setuptools wheel
+```
+
+---
+
+#### Install SGLang (GitHub main) + launch Qwen3.5 with tool calling
+
+Install SGLang main (pip 26+ syntax):
+
+```bash
+pip install -U "sglang[all] @ git+https://github.com/sgl-project/sglang.git@main#subdirectory=python"
+```
+
+Launch the server (TP=2, Qwen tool + reasoning parsers):
+
+```bash
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+
+sglang serve \
+  --model-path Qwen/Qwen3.5-35B-A3B \
+  --host 0.0.0.0 \
+  --port 30000 \
+  --tp-size 2 \
+  --disable-custom-all-reduce \
+  --reasoning-parser qwen3 \
+  --tool-call-parser qwen3_coder
+```
+
+This exposes OpenAI-compatible endpoints at:
+
+- `http://localhost:30000/v1/chat/completions` (inside pod)
+- `https://<POD_ID>-30000.proxy.runpod.net/v1/chat/completions` (public via Runpod proxy)
+
+---
+
+#### Smoke test on the GPU pod (curl)
+
+Health:
+
+```bash
+curl -s http://127.0.0.1:30000/health
+```
+
+Tool calling (must return `tool_calls`, not only JSON in `content`):
+
+```bash
+curl -s http://127.0.0.1:30000/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model":"Qwen/Qwen3.5-35B-A3B",
+    "messages":[{"role":"user","content":"Use the calculator tool: what is 2+2?"}],
+    "tools":[{"type":"function","function":{"name":"calculator","parameters":{"type":"object","properties":{"expression":{"type":"string"}},"required":["expression"]}}}],
+    "tool_choice":"required",
+    "temperature":0.0,
+    "max_completion_tokens":64
+  }' | jq '.choices[0].message'
+```
+
+---
+
+#### What to copy back to CPU machine
+
+Set the **base URL** (must end with `/v1`) in your `.env`:
+
+```dotenv
+AGENT_MODEL_URL=https://<POD_ID>-30000.proxy.runpod.net/v1
+AGENT_MODEL_NAME=Qwen/Qwen3.5-35B-A3B
+AGENT_API_KEY=dummy
+```
+
+Your CPU agent will then call:
+
+`https://<POD_ID>-30000.proxy.runpod.net/v1/chat/completions`
+```
+
+---
+
+If you paste your current README section headers around `### Infrastructure`, I can tell you the exact line range to delete (copy/paste the 20 lines above and below it)."
+
+Here is my outdated readme.md
+
+"# Track A: Telco Troubleshooting and Optimization Agentic Challenge
+
+## Competition Description
+
+A **€40,000** global AI competition hosted on [Zindi](https://zindi.africa/competitions/telco-troubleshooting-agentic-challenge) challenging participants to build intelligent agents capable of diagnosing and troubleshooting wireless network faults in realistic 5G telecom environments.
+
+Agents interact with a domain-specific **Agent Tool Server** (FastAPI simulation sandbox) that exposes structured tool APIs — covering cell info, RSRP/SINR measurements, KPIs, antenna geometry, signaling logs, and more. The agent must call these tools, reason over the returned data, and identify the root cause(s) from a set of labeled options.
+
+**Base model:** Qwen3.5-35B-A3B — mandatory, may be fine-tuned (LoRA, full fine-tuning) but cannot be replaced or scaled to a different parameter count.
+
+### Tracks
+
+| Track | Domain | Training Set | Test Set | Answer Format |
+|-------|--------|-------------|----------|---------------|
+| **A (this repo)** | Wireless / 5G | 2,000 questions + answers | 500 questions | `C3` or `C5\|C7` (ascending) |
+| B | IP Networks | 50 questions | — | Open-ended exact match |
+
+Only one track prize per person/team — winning Track A disqualifies from Track B.
+
+### Scoring
+
+**Score = IoU accuracy × time discount**
+
+- **IoU accuracy** = intersection(predicted, ground_truth) / union(predicted, ground_truth)
+- **Time discount:** < 5 min → 100%, 5–10 min → 80%, 10–15 min → 60%, > 15 min → 0%
+
+Leaderboard: 30% public / 70% private split. Tiebreaker: earliest submission timestamp.
+
+### Prizes (Track A)
+
+| Place | Prize | Extras |
+|-------|-------|--------|
+| 1st | €12,500 | Leader pass + up to $3,500 travel to MWC Shanghai 2026 |
+| 2nd | €5,000 | — |
+| 3rd | €2,500 | — |
+
+Plus 10,000 Zindi points distributed across top finishers.
+
+### Phase Timeline
+
+| Phase | Dates | Action | Submissions |
+|-------|-------|--------|-------------|
+| Phase 1 | Apr 3 – May 4 | Practice; unlimited `result.csv` submissions | Unlimited (max 1,000 API calls/day) |
+| Phase 2 | May 4 – May 18 | Elimination; top 30 advance | Up to 3 result submissions |
+| Phase 3 | May 18 – May 29 | Final; submit `main.py` + fine-tuned weights | 1 attempt, run by organizer |
+
+Winners announced: **May 29, 2026**.
+
+---
+
+## Architecture
+
+> **Thesis:** The metric is IoU, not accuracy. Every spurious Cx in the prediction expands the denominator. Every missed Cx shrinks the numerator. The winning move is a tightly-constrained context: a static expert prompt encoding 5G fault knowledge, a parallel tool prefetch that surfaces the signal *before* the LLM reasons, and a short ReAct loop (≤4 iterations) that confirms rather than discovers.
+>
+> **Compliance note:** Per host clarification (21 Apr 2026), solutions must work exclusively through server tools — no direct access to raw scenario JSON. The `misc/` folder contains earlier exploratory code (rule engine, RAG at-inference, layer1 prompt builder) that reads raw data and is **invalid at inference**. It is kept as reference only.
+>
+> **Reference:** `misc/Qwen3-32BAI-Telco-main/` is the winning solution from the previous edition of this competition (same organizer, same tool-server format). Consult it for prompt design, rule logic, and submission patterns when stuck.
+
+### Pipeline
+
+```
+  OFFLINE (built once from train.json, shipped with submission)
+  ┌─────────────────────────────────────────────────────────────┐
+  │  RAG index  (signaling pattern + metric similarity)          │
+  │  → up to 3 few-shot examples injected into system prompt    │
+  └─────────────────────────────┬───────────────────────────────┘
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Static System Prompt  (src/system_prompt.py)                │
+  │  · 7 canonical 5G fault patterns with diagnostic criteria   │
+  │  · Per-pattern: key signals, confirming tools, Cx mapping   │
+  │  · Closes option set: "answer is one or more of C1–C16"    │
+  │  · Cached by SGLang RadixAttention → ~3× throughput gain   │
+  └─────────────────────────────┬───────────────────────────────┘
+                                 │
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Parallel Tool Prefetch  (before LLM loop)                   │
+  │  · get_signaling_plane_event_log                             │
+  │  · get_kpi_data                                              │
+  │  · get_config_data + get_cell_info                          │
+  │  3–4 calls dispatched concurrently → ≤2 s                  │
+  └─────────────────────────────┬───────────────────────────────┘
+                                 │ prefetch results → tool messages
+                                 ▼
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Qwen3.5-35B-A3B ReAct Loop  (max 4 iterations)              │
+  │  SGLang on RunPod A40 — AWQ INT4, ~120 tok/s                │
+  │  Follow-up tool calls for targeted confirmation only        │
+  │  → \boxed{C3}  or  \boxed{C5|C7}                           │
+  └─────────────────────────────────────────────────────────────┘
+```
+
+### Training data landscape (2000 scenarios)
+
+| Signaling pattern | Count |    % | Likely fault class |
+|-------------------|------:|-----:|-------------------|
+| a3_same           |   985 | 49.2 | Antenna tilt / PDCCH / transport (serving cell issue) |
+| a3_diff           |   542 | 27.1 | HO threshold / missing neighbor (inter-cell issue) |
+| a2_a5             |   245 | 12.2 | Coverage + inter-freq gap |
+| a2_only           |   142 |  7.1 | Weak coverage |
+| none              |    86 |  4.3 | Config-only — use KPI / antenna geometry |
+
+### Infrastructure
+
+| Component | Spec | Est. cost |
+|-----------|------|-----------|
+| GPU pod | 1× **A100 SXM 80 GB** on RunPod — Medium availability | **$1.49/hr** |
+| Model | Qwen3.5-35B-A3B **BF16** — all 35B weights in VRAM (~70 GB) | — |
+| Serving | SGLang + RadixAttention (prefix KV cache reuse) | — |
+| Throughput | ~80–100 tok/s BF16; ≤120 s per scenario | — |
+| Smoke test (5 scenarios) | ~30 min → **~$0.75** | per session |
+| Full Phase 1 run (500) | ~500 × 120 s ≈ 17 hr → **~$25** | once |
+
+> **Why A100 SXM and not cheaper?** Everything below 80 GB VRAM (A40 48 GB, RTX series, etc.) physically cannot hold 70 GB of BF16 weights. No quantization — BF16 is the model's native training precision and avoids rounding that could flip a borderline IoU decision.
+>
+> **Why A100 SXM and not H100?** H100 SXM ($2.99/hr) is 2× the price for marginal throughput gain. With limited credits, A100 SXM gives 2× more GPU-hours for the same money.
+
+### Next steps
+
+1. `src/system_prompt.py` — static expert prompt with 7 fault patterns
+2. Wire system prompt into `main.py.run()` as system message
+3. `src/prefetch.py` — parallel tool prefetch before LLM loop
+4. First compliant run on 20 train scenarios → `scripts/validate.py` for per-bucket IoU
+5. Spin up RunPod A100 80GB, deploy Qwen3.5-35B-A3B via SGLang (BF16)
+6. Full run on `test.json` → `scripts/format_submission.py` → submit
+
+---
+
+## How to Run
+
+> **This section is the Phase 3 deliverable readme.** Keep it accurate as the project evolves.
+>
+> **Two-machine architecture** (GPU and CPU are always separate):
+> - **GPU machine (RunPod Pod)** — SGLang serves the model, exposes a public HTTPS URL
+> - **CPU machine (VS Code / organizer's server)** — `server.py` (tool server) + `main.py` (agent)
+>
+> **Why a Pod, not Serverless:** Qwen3.5-35B-A3B in BF16 is ~70 GB. Serverless cold-start would be 10+ minutes per request. A Pod loads once and handles all 500 scenarios in a single session.
+
+### Architecture
+
+```
+  ┌─────────────────────────────────────────────┐
+  │  RunPod A100 80 GB  (GPU machine)            │
+  │                                              │
+  │  bash gpu_server/start.sh                   │
+  │  └─> SGLang :30000  (BF16, stays warm)      │
+  │       │                                      │
+  │       └── public URL exposed by RunPod:      │
+  │           https://<POD_ID>-30000             │
+  │           .proxy.runpod.net                  │
+  └───────────────────┬─────────────────────────┘
+                      │  HTTPS (OpenAI-compat API)
+  ┌───────────────────┼─────────────────────────┐
+  │  CPU machine (VS Code / organizer server)    │
+  │                   │                          │
+  │  python server.py :7860  (tool server)       │
+  │  python main.py ──┘                          │
+  │    --model_url https://...runpod.net         │
+  │    --server_url http://localhost:7860        │
+  │    --> results/result.csv                   │
+  └─────────────────────────────────────────────┘
+```
+
+---
+
+### GPU setup (RunPod — run once per session)
+
+#### Step-by-step pod creation
+
+**1.** Go to [console.runpod.io/deploy](https://console.runpod.io/deploy) → make sure **GPU** tab is selected.
+
+**2.** Scroll to **"NVIDIA previous generation"** → click **A100 SXM** ($1.49/hr, 80 GB, Medium).
+
+**3.** A configuration panel opens on the right. Fill in:
+
+| Setting | Value | Why |
+|---------|-------|-----|
+| GPU count | **1** | 1× A100 SXM is enough |
+| Template | Search **"RunPod PyTorch"** → select `runpod/pytorch:2.1.0-py3.10-cuda12.1.1-devel` | Has CUDA + Python preinstalled |
+| Container disk | **100 GB** | 70 GB for weights + OS + packages |
+| Volume disk | **0** | Skip — saves money, weights go in container disk |
+| Expose HTTP ports | **30000** | SGLang public endpoint |
+| Expose TCP ports | leave default | SSH access |
+
+**4.** Click **Deploy On-Demand** (not Spot — Spot pods can be interrupted mid-run).
+
+**5.** Wait ~1 minute for the pod to reach **Running** state. Click **Connect** to get the SSH command.
+
+---
+
+#### Budget strategy — STOP, never TERMINATE between sessions
+
+> With $10 credits: one session = smoke tests only (~$0.75). Do NOT run 500 scenarios until you have ~$30.
+
+- **Stop** the pod (not Terminate) when done — GPU billing pauses, container disk is preserved
+- **Terminate** = all data deleted, model weights gone, must re-download next time (~15 min)
+- Stopped pods charge a small storage fee (~$0.05/hr for 100 GB disk) — acceptable vs re-downloading
+
+---
+
+#### One-click start (after SSH-ing in)
+
+```bash
+# First time: upload gpu_server/ from VS Code terminal
+scp -r -P <port> "D:/Me/Competitions/Telco Troubleshooting Agentic Challenge/gpu_server" \
+    root@<host>:/workspace/gpu_server
+
+# Then SSH in and run:
+bash /workspace/gpu_server/start.sh
+```
+
+The script installs SGLang, downloads weights the first time (~15 min), then starts the server.  
+When you see **`Server is ready`**, it prints:
+
+```
+AGENT_MODEL_URL=https://<POD_ID>-30000.proxy.runpod.net
+```
+
+Copy that URL — paste it into your local `.env` as `AGENT_MODEL_URL`.
+
+**Subsequent sessions (weights already downloaded — ~2-3 min to start):**
+
+```bash
+bash /workspace/gpu_server/start.sh   # skips download, goes straight to launch
+```
+
+---
+
+### CPU setup (VS Code / local machine)
+
+**1. Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+**2. Configure `.env`**
+
+```bash
+cp .env.example .env
+# Edit .env — paste the RunPod URL from the GPU step:
+# AGENT_MODEL_URL=https://<POD_ID>-30000.proxy.runpod.net
+```
+
+---
+
+### Smoke test (always run before full inference)
+
+Validates the full pipeline end-to-end on 5 training scenarios with known ground truth.
+
+```bash
+bash smoke_test.sh
+```
+
+**What to check in the output:**
+- `LLM server OK` and `Tool server OK` (both endpoints reachable)
+- Mean IoU > 0 (model is producing answers, not blanks)
+- Each scenario wall-time < 5 minutes (time discount is 100% under 5 min)
+- `\boxed{...}` appears in the verbose log (extraction working)
+
+---
+
+### Full inference run
+
+Once the smoke test passes:
+
+```bash
+bash run.sh
+# Output: results/submission.csv  (ready to upload to Zindi)
+```
+
+For a quick train-split run (has ground truth for measuring IoU):
+
+```bash
+MAX_SAMPLES=20 DATA_SPLIT=train bash run.sh
+python scripts/validate.py --results results/result.csv --data data/Phase_1/train.json
+```
+
+Expected wall time: ~500 scenarios × ~120 s ≈ 17 hours at BF16 on an A100.  
+`results/result.csv` is checkpointed every 10 scenarios — a crash is recoverable.
+
+---
+
+### Phase 3 submission zip
+
+The organizer requires: `readme.md` + `main.py` + weights. The GPU and CPU code must be delivered separately.
+
+**Zip contents:**
+
+```
+submission.zip
+├── README.md              ← this file
+├── gpu_server/
+│   ├── start.sh           ← one-click GPU server
+│   └── requirements.txt   ← GPU deps
+├── main.py                ← agent (CPU)
+├── server.py              ← tool server (CPU, provided by organizer — included for testing)
+├── _types.py
+├── logger.py
+├── utils.py
+├── misc/utils/__init__.py
+├── scripts/
+│   ├── format_submission.py
+│   └── validate.py
+├── data/Phase_1/train.json
+├── data/SampleSubmission.csv
+├── requirements.txt       ← CPU deps
+├── .env.example
+├── run.sh                 ← one-click CPU runner
+└── smoke_test.sh          ← pre-launch validation
+```
+
+**Build the zip (from repo root):**
+
+```bash
+zip -r submission.zip \
+    README.md gpu_server/ main.py server.py _types.py logger.py utils.py \
+    misc/utils/ scripts/ data/Phase_1/train.json data/SampleSubmission.csv \
+    requirements.txt .env.example run.sh smoke_test.sh \
+    --exclude "**/__pycache__/*" "**/*.pyc" "**/.env"
+```
+
+**Organizer instructions (paste into their terminal):**
+
+```bash
+# GPU machine — run once:
+bash gpu_server/start.sh
+# → prints AGENT_MODEL_URL=https://...
+
+# CPU machine — set URL then run:
+echo "AGENT_MODEL_URL=https://<POD_ID>-30000.proxy.runpod.net" > .env
+bash smoke_test.sh   # verify
+bash run.sh          # generate results/submission.csv
+```
+
+**Before submitting:**
+- [ ] Replace `server.py` in the zip with the organizer's final version if updated
+- [ ] Include fine-tuned weights path in `gpu_server/start.sh` if LoRA adapter is used
+- [ ] Run `bash smoke_test.sh` from a clean clone to confirm nothing is missing
+ "
+
+I need to update only the outdated section. I need the new refactored README.md content i can copy and paste without modify nothing concern setup
