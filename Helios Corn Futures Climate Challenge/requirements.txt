@@ -356,7 +356,7 @@ jupyter_server_fileid==0.9.3
 jupyter_server_proxy==4.4.0
 jupyter_server_terminals==0.5.3
 jupyter_server_ydoc==0.8.0
-jupyterlab==3.6.8
+jupyterlab==4.5.7
 jupyterlab-lsp==3.10.2
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.28.0
