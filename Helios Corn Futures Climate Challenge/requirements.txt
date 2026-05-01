@@ -671,7 +671,7 @@ raft-dask-cu12==25.6.0
 rapids-dask-dependency==25.6.0
 rapids-logger==0.1.19
 ratelim==0.1.6
-ray==2.52.1
+ray==2.55.0
 referencing==0.37.0
 regex==2025.11.3
 requests==2.32.5
